@@ -7,3 +7,6 @@ seaborn
 pandas
 scikit-learn
 glob2
+werkzeug
+gevent
+flask
